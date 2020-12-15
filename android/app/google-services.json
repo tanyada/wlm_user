@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044721868880",
+    "firebase_url": "https://flutter-project-aaa0b.firebaseio.com",
+    "project_id": "flutter-project-aaa0b",
+    "storage_bucket": "flutter-project-aaa0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044721868880:android:e49d6fed379141956a7155",
+        "android_client_info": {
+          "package_name": "com.wheelock.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044721868880-1eec5656dtq4ur23usq3dku0dhirfb00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkd6tIFX6MaUtXauZG1keHjJePxDEsWeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044721868880-1eec5656dtq4ur23usq3dku0dhirfb00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
